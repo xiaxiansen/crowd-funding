@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="testspringsecutiry:war">
+    <output-path>$PROJECT_DIR$/../../testspringsecutiry/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>testspringsecutiry</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="testspringsecutiry.war">
+      <element id="artifact" artifact-name="testspringsecutiry:war exploded" />
+    </root>
+  </artifact>
+</component>

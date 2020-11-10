@@ -1,0 +1,13 @@
+
+#redis 配置
+spring:
+  redis:
+    host: 192.168.85.130
+    jedis:
+      pool:
+        max-idle: 100
+    #springsession 配置
+  session:
+    store-type: redis
+server:
+  port: 8081

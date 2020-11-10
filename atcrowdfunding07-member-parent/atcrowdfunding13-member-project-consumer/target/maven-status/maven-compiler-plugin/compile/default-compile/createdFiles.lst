@@ -1,0 +1,5 @@
+META-INF\spring-configuration-metadata.json
+com\atguigu\crowd\CrowdProjectMainClass.class
+com\atguigu\crowd\config\CrowdWebMvcConfig.class
+com\atguigu\crowd\handler\ProjectConsumerHandler.class
+com\atguigu\crowd\config\OSSProperties.class
